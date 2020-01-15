@@ -1,0 +1,45 @@
+@relation Iris-weka.filters.unsupervised.instance.Resample-S1-Z85.0-weka.filters.unsupervised.instance.Resample-S1-Z85.0-no-replacement-V_predicted
+
+@attribute Id numeric
+@attribute SepalLengthCm numeric
+@attribute SepalWidthCm numeric
+@attribute PetalLengthCm numeric
+@attribute PetalWidthCm numeric
+@attribute 'prediction margin' numeric
+@attribute 'predicted Species' {Iris-setosa,Iris-versicolor,Iris-virginica}
+@attribute Species {Iris-setosa,Iris-versicolor,Iris-virginica}
+
+@data
+40,5.1,3.4,1.5,0.2,1,Iris-setosa,Iris-setosa
+3,4.7,3.2,1.3,0.2,-1,Iris-setosa,Iris-virginica
+145,6.7,3.3,5.7,2.5,-0.999992,Iris-virginica,Iris-versicolor
+80,5.7,2.6,3.5,1,-0.999985,Iris-versicolor,Iris-virginica
+109,6.7,2.5,5.8,1.8,0.999867,Iris-virginica,Iris-virginica
+98,6.2,2.9,4.3,1.3,-0.999947,Iris-versicolor,Iris-virginica
+1,5.1,3.5,1.4,0.2,1,Iris-setosa,Iris-setosa
+54,5.5,2.3,4,1.3,0.999998,Iris-versicolor,Iris-versicolor
+29,5.2,3.4,1.4,0.2,1,Iris-setosa,Iris-setosa
+149,6.2,3.4,5.4,2.3,0.999992,Iris-virginica,Iris-virginica
+116,6.4,3.2,5.3,2.3,0.999977,Iris-virginica,Iris-virginica
+74,6.1,2.8,4.7,1.2,0.999991,Iris-versicolor,Iris-versicolor
+68,5.8,2.7,4.1,1,0.999996,Iris-versicolor,Iris-versicolor
+97,5.7,2.9,4.2,1.3,-0.999977,Iris-versicolor,Iris-virginica
+13,4.8,3,1.4,0.1,1,Iris-setosa,Iris-setosa
+127,6.2,2.8,4.8,1.8,-0.999558,Iris-virginica,Iris-setosa
+93,5.8,2.6,4,1.2,0.999972,Iris-versicolor,Iris-versicolor
+78,6.7,3,5,1.7,0.999605,Iris-versicolor,Iris-versicolor
+71,5.9,3.2,4.8,1.8,0.999909,Iris-versicolor,Iris-versicolor
+26,5,3,1.6,0.2,1,Iris-setosa,Iris-setosa
+58,4.9,2.4,3.3,1,0.99998,Iris-versicolor,Iris-versicolor
+17,5.4,3.9,1.3,0.4,1,Iris-setosa,Iris-setosa
+78,6.7,3,5,1.7,0.999605,Iris-versicolor,Iris-versicolor
+96,5.7,3,4.2,1.2,-0.999999,Iris-versicolor,Iris-setosa
+101,6.3,3.3,6,2.5,0.999995,Iris-virginica,Iris-virginica
+20,5.1,3.8,1.5,0.3,1,Iris-setosa,Iris-setosa
+59,6.6,2.9,4.6,1.3,1,Iris-versicolor,Iris-versicolor
+54,5.5,2.3,4,1.3,0.999998,Iris-versicolor,Iris-versicolor
+141,6.7,3.1,5.6,2.4,0.999955,Iris-virginica,Iris-virginica
+77,6.8,2.8,4.8,1.4,-0.999996,Iris-versicolor,Iris-setosa
+67,5.6,3,4.5,1.5,-0.999998,Iris-versicolor,Iris-virginica
+47,5.1,3.8,1.6,0.2,1,Iris-setosa,Iris-setosa
+22,5.1,3.7,1.5,0.4,1,Iris-setosa,Iris-setosa
